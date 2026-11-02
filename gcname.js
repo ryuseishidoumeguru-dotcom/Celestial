@@ -19,11 +19,11 @@ const MAX_NAME = 80;
 const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 
 const DEFAULT_NAMES = [
-  "Walang Patayan 💀",
-  "Troll Zone 🤡",
-  "Wag Seryoso 😂",
-  "Ingay Lang 😭",
-  "Celestial Lite ✨",
+  "tatara killin this gc cuh 💀",
+  "tatara trollin this gc👻",
+  "tatara owns ya b*tch👿👿",
+  "tatara owns this sh*t🥀",
+  "Tatara Playground💎🥶",
 ];
 
 function defaults() {
